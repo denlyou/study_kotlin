@@ -2,7 +2,7 @@
 # Kotlin 공부
 
 ### 참고자료
-- [GDG인천 코틀린 스터디](./refers/links.md)
+- [GDG인천 코틀린 스터디](./refers/gdginchoen.md)
 
 
 ---

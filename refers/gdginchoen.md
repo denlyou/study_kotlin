@@ -8,4 +8,4 @@
 - 매주 토요일 오전 10시~
 
 ### 링크
-- :movie_camera: [새차원의 코틀린 강좌](https://www.youtube.com/playlist?list=PLbJr8hAHHCP6iFwufkM8E5MVBMMcw90iF)
+:movie_camera: [새차원의 코틀린 강좌](https://www.youtube.com/playlist?list=PLbJr8hAHHCP6iFwufkM8E5MVBMMcw90iF)
